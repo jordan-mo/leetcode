@@ -1,4 +1,5 @@
 '''
+Difficulty: Medium
 https://leetcode.com/problems/simplify-path/description/
 '''
 class Solution:
